@@ -5,3 +5,6 @@
 ### I am currently re-visiting Pygame to strengthen my abilities in it so that I can work on a game for my Computing NEA
 ### I have achieved my GCSEs - relating to my subjects I got 9s in Maths, Further Maths, Statistics, and Computer Science.
 ### In terms of soft skills I am disciplined and enjoy persevering through complex problems, I am versatile as I am able to work effectively in a team but also get work done in solo projects. I also have excellent problem-solving ability and can create solutions to many coding problems and have completed the Senior Maths Challenge in which I qualified for the Senior Kangaroo Challenge where I solved many complex maths problems as well.
+## Projects
+ - [Hotel Kashyyyk](https://github.com/BHASVIC-CompSci/Hotel-Kashyyyk---Team-PYM/tree/main)
+ - [Connect 4](https://github.com/BHASVIC-CompSci/JavaConnect4-BHASVIC-MatthiasWhitby25)
